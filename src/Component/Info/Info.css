@@ -1,0 +1,20 @@
+.person img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+.person {
+  background-color: #faeee7;
+  color: #33272a;
+  text-align: center;
+  padding: 5%;
+  border-radius: 10px;
+}
+
+.btn-singer {
+  background-color: #ff8ba69a;
+  color: black;
+  padding: 7px;
+  border-radius: 7px;
+  font-weight:bold;
+}

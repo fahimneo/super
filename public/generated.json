@@ -1,0 +1,82 @@
+[
+  {
+    "img": "https://www.biography.com/.image/t_share/MTM2OTI2NTY2Mjg5NTE2MTI5/justin_bieber_2015_photo_courtesy_dfree_shutterstock_348418241_croppedjpg.jpg",
+    "name": "Justin Biber",
+    "role": "singer",
+    "country": "Canada",
+    "age": 27,
+    "salary": 20000
+  },
+  {
+    "img": "https://static.billboard.com/files/2020/12/Taylor-Swift-VMA-2019-billboard-1548-1607693369-compressed.jpg",
+    "name": "Taylor Swift",
+    "role": "singer",
+    "country": "America",
+    "age": 31,
+    "salary": 10000
+  },
+  {
+    "img": "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952",
+    "name": "Ariana Grande",
+    "role": "singer",
+    "country": "America",
+    "age": 28,
+    "salary": 21000
+  },
+  {
+    "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ed564163dbc9800060b2829%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D1080%26cropY1%3D0%26cropY2%3D1080",
+    "name": "Ed Sheeran",
+    "role": "singer",
+    "country": "UK",
+    "age": 30,
+    "salary": 15000
+  },
+  {
+    "img": "https://yt3.ggpht.com/ytc/AKedOLTiU-qOtrpvV1NaG_KCeGfzXI5i6yGpy7OMismcRg=s900-c-k-c0x00ffffff-no-rj",
+    "name": "Rihanna",
+    "role": "singer",
+    "country": "America",
+    "age": 33,
+    "salary": 54000
+  },
+  {
+    "img": "https://img.etimg.com/thumb/msid-76133123,width-650,imgsize-649921,,resizemode-4,quality-100/bebe-rexha-said-her-parents-were-sick-for-three-weeks-that-she-considered-driving-across-the-country-from-her-los-angeles-home-to-look-after-them-in-new-york-.jpg",
+    "name": "Bebe Rexha",
+    "role": "singer",
+    "country": "America",
+    "age": 32,
+    "salary": 46740
+  },
+  {
+    "img": "https://assets.teenvogue.com/photos/611d00c2f4532fe445bbaeca/1:1/w_1964,h_1964,c_limit/1190327408",
+    "name": "Dua Lipa",
+    "role": "singer",
+    "country": "UK",
+    "age": 26,
+    "salary": 36740
+  },
+  {
+    "img": "https://ichef.bbci.co.uk/news/976/cpsprodpb/0231/production/_118316500_eilishreuters.jpg",
+    "name": "Billie Eilish",
+    "role": "singer",
+    "country": "America",
+    "age": 19,
+    "salary": 37404
+  },
+  {
+    "img": "https://static.toiimg.com/photo/80725675.cms",
+    "name": "Zayn",
+    "role": "singer",
+    "country": "America",
+    "age": 28,
+    "salary": 45540
+  },
+   {
+    "img": "https://www.grammy.com/sites/com/files/styles/news_detail_header/public/herbaltea-whitesofa_avamax_hero1920x1080.jpeg?itok=bi9qtbgb",
+    "name": "Ava Max",
+    "role": "singer",
+    "country": "America",
+    "age": 27,
+    "salary": 56600
+  }
+]

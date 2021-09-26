@@ -1,0 +1,14 @@
+.singer-container{
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.left-part {
+  background-color: #fffffe;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap : 10px;
+  border-right: 1px solid black;
+}
+.right-part {
+  background-color: #FFEFBC
+}
